@@ -16,7 +16,6 @@
     "three": "^0.149.0"
   },
   "description": "",
-  "main": "main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RahulAhujatoo/portfolio.git"
